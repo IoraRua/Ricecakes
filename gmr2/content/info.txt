@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+	"name"				"bf2_buggy"
+	"version"			"1.0"
+	"up_date"			"10 june 2009"
+	"author_name"			"MaKc,Erghize"
+	"author_email"			"bad_dogg@starport.com.ua"
+	"author_url"			""
+	"info"				"BF2 Buggy to HL2"
+	"override"			"0"
+}
